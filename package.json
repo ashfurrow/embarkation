@@ -1,0 +1,27 @@
+{
+  "name": "embarkation",
+  "displayName": "Embarkation",
+  "description": "A dark theme based on the Embark color palette",
+  "version": "0.1.0",
+  "publisher": "ashfurrow",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashfurrow/embarkation"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Embarkation",
+        "uiTheme": "vs-dark",
+        "path": "./themes/embarkation-color-theme.json"
+      }
+    ]
+  }
+}
