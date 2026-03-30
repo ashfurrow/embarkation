@@ -6,11 +6,11 @@
     "editor.foreground": "#CBE3E7",
     "editor.lineHighlightBackground": "#2D2B40",
     "editor.selectionBackground": "#3E3859",
-    "editor.inactiveSelectionBackground": "#2D2B40",
+    "editor.inactiveSelectionBackground": "#2d2b4099",
     "editorCursor.foreground": "#F48FB1",
     "editorWhitespace.foreground": "#585273",
-    "editorIndentGuide.background": "#2D2B40",
-    "editorIndentGuide.activeBackground": "#3E3859",
+    "editorIndentGuide.background1": "#2D2B40",
+    "editorIndentGuide.activeBackground1": "#3E3859",
     "editorLineNumber.foreground": "#585273",
     "editorLineNumber.activeForeground": "#8A889D",
 
@@ -25,6 +25,8 @@
     "sideBarTitle.foreground": "#CBE3E7",
     "sideBarSectionHeader.background": "#1E1C31",
     "sideBarSectionHeader.foreground": "#CBE3E7",
+
+    "editorGroupHeader.tabsBackground": "#1E1C31",
 
     "statusBar.background": "#100E23",
     "statusBar.foreground": "#8A889D",
