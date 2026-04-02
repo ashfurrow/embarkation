@@ -1,5 +1,9 @@
 ## Versions
 
+## 0.1.2
+
+- Fixes screenshot rendering.
+
 ## 0.1.1
 
 - Adds screenshots, readme, changelog.
